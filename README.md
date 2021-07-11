@@ -1,5 +1,15 @@
 # Navid_mowito_assignment
 
+I have attached both files....  **Note: working codes are rrt_base.py and rrt_main.py**
+
+
+1. rrt_planning.py **(Not working code** ....tried with Rviz by subscribing to topics map and move_base/simple Goal.)
+
+**2. rr_base.py and rrt_main.py  (Working)**
+
+
+
+
 
 **Running the code:**
 
@@ -24,8 +34,3 @@ Now I know how to implement such algorithms... but before going to the blogs I t
 
 I have implemented the algorithm with taking some reference from the available sources
 
-I have attached both files....  Note: working code is in Navid_mowito_assignment.Zip
-
-1. rrt_planning.py **(Not working code** ....tried with Rviz by subscribing to topics map and move_base/simple Goal.)
-
-**2. rr_base.py and rrt_main.py  (Working)**
