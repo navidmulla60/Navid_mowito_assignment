@@ -26,9 +26,7 @@ I understood backend of the algorithm and tried to implement with ROS RVIZ,
 
 But i failed,  i was unable  to draw that in rviz. After that i tried with simple python and successfully implemented till calculating the equidistance between "random point generated" with "the available nodes" from the tree. but i didn't understand how to keep record of parent child information...
 
-After that i went through several blogs , websites, youtube and i took some reference and i finally i implemented the algorithm.... **(I have attached a image of my calculation "snapCapture.jpg" snapCapture.jpg
-
-)**
+After that i went through several blogs , websites, youtube and i took some reference and i finally i implemented the algorithm.... **(I have attached a image of my calculation "snapCapture.jpg" snapCapture.jpg)**
 
 Now I know how to implement such algorithms... but before going to the blogs I tried and only I stuck at recording the parent child info...
 
