@@ -13,7 +13,7 @@ I have attached both files....  **Note: working codes are rrt_base.py and rrt_ma
 
 **Running the code:**
 
-1. run the rrt_main.py (in this we can define number of obstacle and size of obstacle algorithm randomly generates obstacles)
+1. run the **rrt_main.py** (in this we can define number of obstacle and size of obstacle algorithm randomly generates obstacles)
    we can change start point goal and obstacle numbers in the same script
      
      
